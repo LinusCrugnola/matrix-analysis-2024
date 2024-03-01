@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 *.OTTER_LOG
+*.zip
